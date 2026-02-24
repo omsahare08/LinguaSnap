@@ -1,4 +1,4 @@
-# LinguaSnap — Instant Text Translator
+# LinguaSnap — Instant Text Translator Extension 
 
 
 - **Select & Translate** — Highlight any text, click the floating button, done
